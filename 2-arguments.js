@@ -4,5 +4,5 @@ const count = args.length;
 if (count === 1) {
   console.log("1 argument");
 } else {
-  console.log(count + " arguments");
+  console.log(`${count} arguments`);
 }
